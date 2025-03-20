@@ -1,0 +1,2 @@
+create a git repo and clone it in local
+create a code.py file and add code to it
